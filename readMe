@@ -3,4 +3,5 @@ Dosya icinde ogrencilerin sirasiyla
 2. sinav notu ve
 final sinav notu bulunmaktadir.
 
-Öğrencinin almis oldugu bu sinav puanlarina gore alacagi "harf notu" hesaplanacaktir.
+Öğrencinin almis oldugu bu sinav puanlarini 'OgrenciNotlari.txt' dosyasindan okuyup
+alacagi "harf notunı" hesapliyoruz ve 'OgrenciHarfNotlari' adli dosyaya yaziyoruz.
